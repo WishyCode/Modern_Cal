@@ -1,0 +1,13 @@
+Welcome to the Cal Installation Wizard
+
+This setup will install Cal on your computer.
+
+Please read the following important information before continuing.
+
+• Make sure all other applications are closed before starting the installation.
+• This application was developed using Python and packaged with PyInstaller.
+• The application uses images and icons located in the same folder as the executable.
+• Your antivirus may give a warning for .exe files generated with PyInstaller. You can safely allow this file if you trust the source.
+• The installer will copy necessary files and create a desktop shortcut.
+
+Click Next to continue the installation.
